@@ -1,4 +1,2 @@
-# Docker-rails-demo
-
-
+# docker-rails-demo
 Rails demo app in rails
